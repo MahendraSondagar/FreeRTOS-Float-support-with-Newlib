@@ -11,7 +11,7 @@ Now when you need to print float and double or when you need to use snprintf and
 
 The reason behind this hard fault is nothing but stack overflow 
 
-# Whats is the solution Solution?
+# Whats is the Solution?
 The solution is to integrate the Newlib library with the porting file 
 Newlib is a standard c library to use with the embedded system to emphasize the standard io with minimum footprint requirement 
 
